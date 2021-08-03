@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: 665c2665584b97a44a7250d29cbfa219
+  - enabled: 1
+    path: Assets/Scenes/AppleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/AppleAnimation.unity
+    guid: 4df3853e29df9af46b2b77178d877ddf
+  - enabled: 1
+    path: Assets/Scenes/WormScene.unity
+    guid: 9f74e9b4a6abaf74da5991a058508f06
+  - enabled: 1
+    path: Assets/Scenes/WornAnim.unity
+    guid: 39fb6619071307548bb0610f4f4bcfff
+  - enabled: 1
+    path: Assets/Scenes/kidbulliesthechicken.unity
+    guid: 685c3234337eda44aa5ab404a21a104d
+  - enabled: 1
+    path: Assets/Scenes/ChildPushesDad.unity
+    guid: a11f55cdfbba2dc47b8bbfad6e82f799
+  - enabled: 1
+    path: Assets/Scenes/HumanScene.unity
+    guid: ec3f91e9aa41e454f9d08786fd35a177
+  - enabled: 1
+    path: Assets/Scenes/ManInGrave.unity
+    guid: 5de18827703d8da4b8f62af2e1c1fe00
+  m_configObjects: {}
